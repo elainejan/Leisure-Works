@@ -23,7 +23,6 @@ These projects are often:
 ## 💻 Tech Stack (Varies Per Project)
 
 - HTML / CSS / JavaScript  
-- PHP / Python (for scripts)
 - Sometimes a bit of Git or API play
 
 ---
